@@ -1,0 +1,143 @@
+body {
+    background-color: darkgrey;
+}
+
+#encabezado {
+    text-align: center;
+    color: rgb(228, 199, 126);
+    font-size: 50px;
+
+}
+
+#eslogan {
+    float: left;
+    color: aqua;
+    font-size: 30px;
+
+}
+
+#poema {
+    color: aliceblue;
+    font-family: Helvetica;
+    width: 400px;
+    margin-top: 4em;
+    font-size: 15px;
+}
+
+#imagenarriba {
+    float: right;
+}
+
+#arriba {
+    background-color: rgb(49, 51, 53);
+    margin: 0%;
+}
+
+#logo {
+    margin-left: 41em;
+}
+
+#menuhorizontal {
+    background-color: rgb(82, 86, 93);
+    font-size: 6600;
+    border: solid rgb(67, 71, 78) 5px;
+    word-spacing: 50px;
+}
+
+#menuhorizontal a:active,
+#menuhorizontal a:hover {
+    background-color: rgb(55, 63, 63);
+}
+
+#menuhorizontal a {
+    text-decoration: none;
+    color: rgb(228, 199, 126);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#descripción {
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: justify;
+    margin-left: 22px;
+    margin-right: 22px;
+    margin-top: 22px;
+}
+
+#producto1 {
+    float: left;
+    text-align: center;
+    margin-left: 15em;
+    font-size: 20px;
+}
+
+#producto2 {
+    float: right;
+    margin-right: 15em;
+    font-size: 20px;
+    text-align: center;
+}
+
+#producto3 {
+    float: left;
+    text-align: center;
+    margin-left: 15em;
+    font-size: 20px;
+}
+
+#producto4 {
+    float: right;
+    margin-right: 11em;
+    font-size: 20px;
+    text-align: center;
+}
+
+#producto5 {
+    float: left;
+    text-align: center;
+    margin-left: 15em;
+    font-size: 20px;
+}
+
+#producto6 {
+    float: right;
+    margin-right: 15em;
+    font-size: 20px;
+    text-align: center;
+}
+#buscar{
+    float: left;
+    margin-left: 2px;
+}
+#Historia{
+    text-align: center;
+    color: aqua;
+    font-size: 30px;
+}
+#abajo{
+    background-color:  rgb(49, 51, 53);
+    
+}
+#titulocontactos{
+    color: aquamarine;
+    font-size: 30px;
+}
+#contactoscorreo{
+    color: white;
+    font-size: 15px;
+    
+}
+#segundotitulo{
+    font-size: 25px;
+    color: cadetblue;
+}
+#contactoscorreo a{
+    color: rgb(255, 255, 255);
+    font-size:  15px;
+    text-decoration: none;
+}
+#contactoscorreo a:hover{
+    color: rgb(138, 132, 132);
+}
+
+
